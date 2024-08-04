@@ -4,6 +4,6 @@ class Main{
         String a0 = args[0];
         String a1 = args[1];
         String a2 = args[2];
-        String a2 = args[3];
+        String a3 = args[3];
     }
 }
